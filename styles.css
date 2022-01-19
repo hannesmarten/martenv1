@@ -76,6 +76,8 @@ background-image: url("v2.png");
   background-color: #F8CACA;
   margin-top: 30px;
   margin-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .text p {
