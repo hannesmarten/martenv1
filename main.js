@@ -1,6 +1,6 @@
 "use strict";
 
-var text = "loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...";
+var text = "loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading...loading";
 var begin = 0;
 var end = text.length;
 
